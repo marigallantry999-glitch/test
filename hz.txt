@@ -1,0 +1,13 @@
+новый проект
+git init
+git add .
+git commit -m "first commit"
+git push -u origin main
+git add .
+git commit -m "new commit" 
+git push
+
+старый проект (просто обновить)
+git add .
+git commit -m "new commit"
+git push
